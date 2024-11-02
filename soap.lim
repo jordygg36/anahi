@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>BDBDDF</corfondo>
+        <corbanda>FFCEFF</corbanda>
+        <cornavega>FFCEFF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>ACTIVIDAD: SOPA DE LETRAS</titulo>
+        <autor>ANAHI</autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="TIENE UNA GRAN MEMORIA.">ELEFANTE</sopa>
+              <sopa enun="VIVE EN LUGARES FRIOS">PINGÜINO</sopa>
+              <sopa enun="ES EL REY DE LA SELVA.">LEÓN</sopa>
+              <sopa enun="TIENE EL CUELLO LARGO">JIRAFA</sopa>
+              <sopa enun="PRODUCE MIEL">ABEJA</sopa>
+              <sopa enun="ES UN ANIMAL MUY INTELIGENTE">DELFÍN</sopa>
+              <sopa enun="VUELA DE NOCHE">MURCIÉLAGO</sopa>
+              <sopa enun="VIVE MUCHOS AÑOS.">TORTUGA</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>ABCDEFGHIJLMNOPRST</fondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <imaxe>perrito.png</imaxe>
+              <imfondo  trans="20">perrito.png</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
